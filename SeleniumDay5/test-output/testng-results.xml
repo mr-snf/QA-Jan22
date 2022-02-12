@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-05T07:05:46 NPT" name="Default suite" finished-at="2022-02-05T07:06:06 NPT" duration-ms="20021">
+    <groups>
+      <group name="testGroup2">
+        <method signature="TestNGDependencies.test6()[pri:0, instance:tests.TestNGDependencies@2a798d51]" name="test6" class="tests.TestNGDependencies"/>
+        <method signature="TestNGDependencies.test5()[pri:0, instance:tests.TestNGDependencies@2a798d51]" name="test5" class="tests.TestNGDependencies"/>
+      </group> <!-- testGroup2 -->
+      <group name="testGroup1">
+        <method signature="TestNGDependencies.test7()[pri:0, instance:tests.TestNGDependencies@2a798d51]" name="test7" class="tests.TestNGDependencies"/>
+        <method signature="TestNGDependencies.test4()[pri:0, instance:tests.TestNGDependencies@2a798d51]" name="test4" class="tests.TestNGDependencies"/>
+      </group> <!-- testGroup1 -->
+    </groups>
+    <test started-at="2022-02-05T07:05:46 NPT" name="Default test" finished-at="2022-02-05T07:06:06 NPT" duration-ms="20021">
+      <class name="tests.TestNGDependencies">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:05:46 NPT" name="beforeClass" finished-at="2022-02-05T07:05:46 NPT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:05:46 NPT" name="beforeMethod" finished-at="2022-02-05T07:05:49 NPT" duration-ms="2911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test4()[pri:0, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:05:49 NPT" name="test4" finished-at="2022-02-05T07:05:49 NPT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:05:49 NPT" name="afterMethod" finished-at="2022-02-05T07:05:49 NPT" duration-ms="266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:05:49 NPT" name="beforeMethod" finished-at="2022-02-05T07:05:51 NPT" duration-ms="2385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test5()[pri:0, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:05:51 NPT" name="test5" finished-at="2022-02-05T07:05:51 NPT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:05:51 NPT" name="afterMethod" finished-at="2022-02-05T07:05:52 NPT" duration-ms="221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:05:52 NPT" name="beforeMethod" finished-at="2022-02-05T07:05:53 NPT" duration-ms="1935" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test6()[pri:0, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:05:53 NPT" name="test6" finished-at="2022-02-05T07:05:53 NPT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:05:53 NPT" name="afterMethod" finished-at="2022-02-05T07:05:54 NPT" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:05:54 NPT" name="beforeMethod" finished-at="2022-02-05T07:05:56 NPT" duration-ms="2327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test7()[pri:0, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:05:56 NPT" name="test7" finished-at="2022-02-05T07:05:56 NPT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:05:56 NPT" name="afterMethod" finished-at="2022-02-05T07:05:56 NPT" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:05:56 NPT" name="beforeMethod" finished-at="2022-02-05T07:05:58 NPT" duration-ms="1965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test8()[pri:0, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:05:58 NPT" name="test8" depends-on-groups="testGroup2, testGroup1" finished-at="2022-02-05T07:05:58 NPT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:05:58 NPT" name="afterMethod" finished-at="2022-02-05T07:05:58 NPT" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:05:58 NPT" name="beforeMethod" finished-at="2022-02-05T07:06:01 NPT" duration-ms="2385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test3()[pri:8, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:06:01 NPT" name="test3" finished-at="2022-02-05T07:06:01 NPT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:06:01 NPT" name="afterMethod" finished-at="2022-02-05T07:06:01 NPT" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:06:01 NPT" name="beforeMethod" finished-at="2022-02-05T07:06:03 NPT" duration-ms="1924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test1()[pri:23, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:06:03 NPT" name="test1" finished-at="2022-02-05T07:06:03 NPT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:06:03 NPT" name="afterMethod" finished-at="2022-02-05T07:06:03 NPT" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:06:03 NPT" name="beforeMethod" finished-at="2022-02-05T07:06:06 NPT" duration-ms="2379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test2()[pri:0, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:06:06 NPT" name="test2" finished-at="2022-02-05T07:06:06 NPT" depends-on-methods="tests.TestNGDependencies.test3, tests.TestNGDependencies.test1" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.TestNGDependencies@2a798d51]" started-at="2022-02-05T07:06:06 NPT" name="afterMethod" finished-at="2022-02-05T07:06:06 NPT" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.TestNGDependencies -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
