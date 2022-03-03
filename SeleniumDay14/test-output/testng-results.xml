@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-03T07:10:51 NPT" name="Default suite" finished-at="2022-03-03T07:11:07 NPT" duration-ms="16556">
+    <groups>
+    </groups>
+    <test started-at="2022-03-03T07:10:51 NPT" name="Default test" finished-at="2022-03-03T07:11:07 NPT" duration-ms="16556">
+      <class name="day14.SeleniumDay14.MainApp">
+        <test-method is-config="true" signature="setup()[pri:0, instance:day14.SeleniumDay14.MainApp@16293aa2]" started-at="2022-03-03T07:10:51 NPT" name="setup" finished-at="2022-03-03T07:10:51 NPT" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:day14.SeleniumDay14.MainApp@16293aa2]" started-at="2022-03-03T07:10:51 NPT" name="beforeMethod" finished-at="2022-03-03T07:10:52 NPT" duration-ms="1396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="handlingTabs2()[pri:0, instance:day14.SeleniumDay14.MainApp@16293aa2]" started-at="2022-03-03T07:10:52 NPT" name="handlingTabs2" finished-at="2022-03-03T07:11:07 NPT" duration-ms="14567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handlingTabs2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:day14.SeleniumDay14.MainApp@16293aa2]" started-at="2022-03-03T07:11:07 NPT" name="afterMethod" finished-at="2022-03-03T07:11:07 NPT" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:day14.SeleniumDay14.MainApp@16293aa2]" started-at="2022-03-03T07:11:07 NPT" name="teardown" finished-at="2022-03-03T07:11:07 NPT" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- day14.SeleniumDay14.MainApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
