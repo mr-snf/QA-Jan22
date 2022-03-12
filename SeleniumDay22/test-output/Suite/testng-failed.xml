@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="url" value="https://google.com"/>
+  <parameter name="browserType" value="3"/>
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="searchText" value="msi"/>
+    <classes>
+      <class name="day22.SeleniumDay22.AppTest">
+        <methods>
+          <include name="teardown"/>
+          <include name="afterMethod"/>
+          <include name="setup"/>
+          <include name="googleSearch4" invocation-numbers="0"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- day22.SeleniumDay22.AppTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
